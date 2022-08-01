@@ -1,0 +1,14 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "myUdagramVPC"
+	},
+	{
+		"ParameterKey": "IAMRoleName",
+		"ParameterValue": "GetS3Object"
+	},
+    {
+		"ParameterKey": "InstanceProfileName",
+		"ParameterValue": "InstanceProfileUdagram"
+	}
+]
